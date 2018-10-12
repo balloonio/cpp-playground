@@ -81,4 +81,9 @@ II. WITH SPINLOCK
 Thread t1t1 starting
 Thread t3t3 starting
 Thread t2t2 starting
+
+REFERENCE
+https://cis.temple.edu/~giorgio/old/cis307f05/readings/spinsem.html
+https://stackoverflow.com/questions/26583433/c11-implementation-of-spinlock-using-atomic
+https://stackoverflow.com/questions/12346487/what-do-each-memory-order-mean
 */
